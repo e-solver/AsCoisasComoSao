@@ -1,7 +1,8 @@
-**Por que as coisas são assim?**
+# **O que são as coisas?**
 
-*Discurso do porquê de as coisas não darem certo como gostaríamos.*
-Por Rodrigo Porto de Oliveira Rodrigues.
+### _Discurso sobre as coisas, de natureza desconhecida ou não._
+
+Rodrigo Porto de Oliveira Rodrigues
 
 **Comentário pré-leitura**
 
@@ -13,8 +14,8 @@ Por se tratar de um discurso e, por definição, falas feitas em algum momento, 
 
 Por esse motivo, não pode ser alterado senão por questões gramaticais para facilitar o entendimento. Ao transcrever este discurso, nem mesmo eu o alterei, senão por questões gramaticais. Portanto, é de suma importância que, independentemente do meio em que ele for acessado, se mantenha íntegro.
 
-Esse discurso não surge propriamente da pergunta “Por que as coisas são assim?”, mas da indagação “Por que as coisas não dão certo?”, ou “Quando as coisas começarão a dar certo?”. De qualquer forma, considero que o conteúdo presente nele pode responder essas três perguntas.
+Esse discurso não surge propriamente da pergunta “O que são as coisas?”, mas da indagação “O que são as coisas de natureza desconhecida?”, ou “O que são sonhos, projeções e deja-vùs?”. De qualquer forma, considero que o conteúdo presente nele pode responder essas três perguntas. Para facilitar a compreensão, as "coisas" são lidas como sendo “sonhos”.
 
-O discurso pode também ser acessado gratuitamente através do meu  Github e lido através da plataforma de livros parceira, sob condição de contribuição espontânea.
+O discurso pode também ser acessado gratuitamente através do meu [Github](https://github.com/e-solver) e lido através da plataforma de livros parceira, sob condição de contribuição espontânea.
 
-Tendo dito isso,  **por que as coisas são assim?**
+Tendo dito isso, **o que são as coisas?**
