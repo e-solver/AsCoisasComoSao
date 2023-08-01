@@ -1,6 +1,6 @@
-**Por que as coisas são assim?**
+# **Por que somos assim?**
 
-*Discurso do porquê de as coisas não darem certo como gostaríamos.*
+_Discurso do porquê somos e não somos “coisas”._
 Por Rodrigo Porto de Oliveira Rodrigues.
 
 **Comentário pré-leitura**
@@ -13,8 +13,8 @@ Por se tratar de um discurso e, por definição, falas feitas em algum momento, 
 
 Por esse motivo, não pode ser alterado senão por questões gramaticais para facilitar o entendimento. Ao transcrever este discurso, nem mesmo eu o alterei, senão por questões gramaticais. Portanto, é de suma importância que, independentemente do meio em que ele for acessado, se mantenha íntegro.
 
-Esse discurso não surge propriamente da pergunta “Por que as coisas são assim?”, mas da indagação “Por que as coisas não dão certo?”, ou “Quando as coisas começarão a dar certo?”. De qualquer forma, considero que o conteúdo presente nele pode responder essas três perguntas.
+Esse discurso não surge propriamente da pergunta “Por que somos assim?”, mas da indagação “Porque sou 'coisa'?”, ou “Por que não sou 'coisa'?”. De qualquer forma, considero que o conteúdo presente nele pode responder essas três perguntas. Para facilitar a compreensão, as "coisas" são lidas dos pontos de vista da raiva.
 
-O discurso pode também ser acessado gratuitamente através do meu  Github e lido através da plataforma de livros parceira, sob condição de contribuição espontânea.
+O discurso pode também ser acessado gratuitamente através do meu [Github](https://github.com/e-solver) e lido através da plataforma de livros parceira, sob condição de contribuição espontânea.
 
-Tendo dito isso,  **por que as coisas são assim?**
+Tendo dito isso, **por que somos "raivosos" e não somos "não-raivosos"**?
